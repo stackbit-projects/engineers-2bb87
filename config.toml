@@ -25,7 +25,7 @@ OpenLinksInNewWindow = true
   icon = "shopping-basket"
 
   [[params.nav]]
-  name = "music"
+  name = "structural"
   tag = "music"
   icon = "headphones"
 
