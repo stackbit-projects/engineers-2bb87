@@ -20,7 +20,7 @@ OpenLinksInNewWindow = true
   icon = "search"
 
   [[params.nav]]
-  name = "shopping"
+  name = "engineers"
   tag = "shopping"
   icon = "shopping-basket"
 
