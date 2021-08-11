@@ -2,7 +2,7 @@ tiles:
 -
   name: "google"
   url: "https://google.com"
-  img: "logos/in.jpg"
+  img: "logos/in.png"
   tags: ["favorite", "search"]
 -
   name: "bing"
