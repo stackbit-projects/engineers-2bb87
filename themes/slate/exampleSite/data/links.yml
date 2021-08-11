@@ -1,7 +1,7 @@
 tiles:
 -
   name: "incode"
-  url: "https://google.com"
+  url: "https://incode.com.au"
   img: "logos/in.png"
   tags: ["favorite", "search"]
 -
