@@ -1,6 +1,6 @@
 tiles:
 -
-  name: "google"
+  name: "incode"
   url: "https://google.com"
   img: "logos/in.png"
   tags: ["favorite", "search"]
